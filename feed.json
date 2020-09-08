@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://nolan-tanzman.github.io/wa-or-weather-advisory.html",
+            "url": "https://nolan-tanzman.github.io/wa-or-weather-advisory.html",
+            "title": "WA / OR Weather Advisory ",
+            "summary": "<p class=\"msg msg--warning\">...HIGH WIND WARNING REMAINS IN EFFECT UNTIL 1 PM PDT TUESDAY...</p>\n",
+            "content_html": "<p class=\"msg msg--warning\">...HIGH WIND WARNING REMAINS IN EFFECT UNTIL 1 PM PDT TUESDAY...</p>\n\n<div class=\"card-inner-wrapper\">\n<div class=\"card-content\"><address class=\"align-center\"><br><span style=\"text-decoration: underline;\"><strong>WHAT</strong></span>...East winds <span style=\"text-decoration: underline;\"><strong>15 to 30 mph</strong> </span>with widespread gusts of <span style=\"text-decoration: underline;\"><strong>40 to</strong></span><br><span style=\"text-decoration: underline;\"><strong>55 mph are expected.</strong></span> Locally stronger winds with gusts of 60<br>to 65 mph are possible across the <span style=\"text-decoration: underline;\"><strong>West Hills</strong> and areas east of</span><br><span style=\"text-decoration: underline;\">the<strong> Portland Area Airport &amp; Vancouver Metro Area.</strong></span><br><hr><br><code>- <strong><span style=\"text-decoration: underline;\">WHERE</span></strong>...Greater <span style=\"text-decoration: underline;\">Portland</span> and <span style=\"text-decoration: underline;\">Vancouver</span> metro area.</code><br><br><code><strong>- </strong><span style=\"text-decoration: underline;\"><strong>WHEN</strong></span>...Until 1 PM PDT Tuesday.</code><br><hr><br><code>- <span style=\"text-decoration: underline;\"><strong>IMPACTS</strong></span>..<span style=\"text-decoration: underline;\">.Tree limbs and<strong> even whole trees</strong> will be susceptible</span></code><br><code><span style=\"text-decoration: underline;\">to being blown down.</span> Be prepared for power outages.<span style=\"text-decoration: underline;\"> Travel</span></code><br><code><span style=\"text-decoration: underline;\">will be difficult,</span> especially for<span style=\"text-decoration: underline;\"> high profile vehicles along</span></code><br><code><strong><span style=\"text-decoration: underline;\">Interstate 205.</span></strong></code><br><br><code><strong>- </strong><span style=\"text-decoration: underline;\"><strong>ADDITIONALLY</strong></span>...Conditions will be favorable for rapid fire</code><br><code>spread. Use extreme caution with potential ignition sources.</code></address></div>\n</div>\n<div class=\"card-inner-wrapper inline-card-section\">\n<div class=\"card-content align-center\"><address id=\"instructions-section\" class=\"inline-card\">\n<div id=\"alert-description-recommended-actions\" class=\"inline-card-title align-center\"><code>Recommended actions</code></div>\n<div class=\"align-center\"><hr></div>\n<span style=\"text-decoration: underline;\"><strong>People should avoid being outside in forested areas and around</strong></span><br><span style=\"text-decoration: underline;\"><strong>trees and branches. If possible, remain in the lower levels of</strong></span><br><span style=\"text-decoration: underline;\"><strong>your home during the windstorm, and avoid windows. Use caution if</strong></span><br><span style=\"text-decoration: underline;\"><strong>you must drive.</strong></span></address></div>\n</div>",
+            "author": {
+                "name": "Nolan Tanzman"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-08T07:21:44-07:00",
+            "date_modified": "2020-09-08T07:21:44-07:00"
+        },
+        {
             "id": "https://nolan-tanzman.github.io/washington-state-health-department-update.html",
             "url": "https://nolan-tanzman.github.io/washington-state-health-department-update.html",
             "title": "Washington State Health Department Update",
@@ -20,8 +34,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-08T04:52:41-07:00",
-            "date_modified": "2020-09-08T04:52:41-07:00"
+            "date_published": "2020-09-08T07:21:44-07:00",
+            "date_modified": "2020-09-08T07:21:44-07:00"
         }
     ]
 }
