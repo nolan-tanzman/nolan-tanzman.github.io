@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NolansVlogs",
+    "description": "",
+    "home_page_url": "https://nolan-tanzman.github.io",
+    "feed_url": "https://nolan-tanzman.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Nolan Tanzman"
+    },
+    "items": [
+    ]
+}
