@@ -10,7 +10,7 @@
     <id>https://nolan-tanzman.github.io</id>
 
     <entry>
-        <title>North county residents heed pre-evacuation notices as Gifford Pinchot burnsTrending</title>
+        <title>North county residents heed pre-evacuation notices as Gifford Pinchot burns</title>
         <author>
             <name>Nolan Tanzman</name>
         </author>
@@ -19,7 +19,7 @@
             <category term="Weather"/>
             <category term="Washington State"/>
 
-        <updated>2020-09-12T08:18:54-07:00</updated>
+        <updated>2020-09-12T08:23:19-07:00</updated>
             <summary>
                 <![CDATA[
                     <section class="article-content container px-lg-7">
@@ -111,7 +111,7 @@
 </section>
 <div class="article-inline advertisement my-6">
 <div class="container-fluid text-center my-6">
-<div id="instory-full-width-5"><hr></div>
+<div id="instory-full-width-5"> </div>
 </div>
 </div>
 <section class="article-content container px-lg-7">
@@ -129,21 +129,15 @@
 </blockquote>
 </div>
 </section>
-<div class="article-inline advertisement my-6">
-<div class="container-fluid text-center my-6">
-<div id="instory-full-width-6"><hr></div>
-</div>
-</div>
 <section class="article-content container px-lg-7">
 <div class="mx-lg-7 px-lg-5 px-xl-7">
 <p class="p1"><span class="s2">A number of residents stayed in nearby hotels overnight, he said.</span></p>
 <p class="p1"><span class="s2">Lies said the store is doing its best to keep people supplied. Several customers have rented storage sheds for their belongings, and many others seem to be grabbing ice. Beyond that, customers are sticking to their ordinary shopping lists, he said.</span></p>
 <p class="p2 msg msg--info"><span class="s2"><strong><span style="text-decoration: underline;">Forest closures</span> </strong></span><span class="s1">The Big Hollow Fire was discovered Tuesday burning east and north of the Trapper Creek Wilderness on the Mount Adams Ranger District. Earlier Wednesday, the U.S. Forest Service had estimated the size of the fire to be 6,000 acres but later updated that number to about 22,000 acres. It reduced that estimate Thursday morning to 12,050 acres, in line with the estimate from the Department of Natural Resources.</span></p>
 <blockquote>
-<p class="p2 msg--highlight  msg--success"><span class="s1">The cause of the fire is unknown.</span></p>
+<p class="p2 msg--highlight msg "><span class="s1">The cause of the fire is unknown.</span></p>
 </blockquote>
-<hr>
-<p class="p1 msg msg--highlight "><span class="s1">The Gifford Pinchot National Forest has temporarily closed some areas to the public, including developed campgrounds, dispersed camping, day use and wilderness areas, and most forest roads and trails in the southwestern portion of the forest, the U.S. Forest Service said in a news release Wednesday night.</span></p>
+<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">The<span style="text-decoration: underline;"><strong> Gifford Pinchot National Forest has temporarily closed</strong></span> some areas to the public, including developed campgrounds, dispersed camping, day use and wilderness areas, and most forest roads and trails in the southwestern portion of the forest, the U.S. Forest Service said in a news release Wednesday night.</span>
 <blockquote><strong><span class="s1">“At this time, the Big Hollow Fire is presenting an extremely dangerous situation, and we must close the forest to protect the life and safety of the firefighters and the public,” Forest Supervisor Eric Veach said in the news release. “Even if your destination is outside the closure area, please consider waiting to visit the Gifford Pinchot or other national forests until the fire situation in the Northwest has stabilized somewhat.”</span></strong></blockquote>
 </div>
 </section>
@@ -170,7 +164,7 @@
         <id>https://nolan-tanzman.github.io/the-dos-and-donts-of-face-masks-covid-19-chrisis-continues/index.html</id>
             <category term="COVID-19"/>
 
-        <updated>2020-09-12T08:18:54-07:00</updated>
+        <updated>2020-09-12T08:23:19-07:00</updated>
             <summary>
                 <![CDATA[
                     
@@ -223,7 +217,7 @@
             <category term="Washington State"/>
             <category term="Oregon State"/>
 
-        <updated>2020-09-12T08:18:54-07:00</updated>
+        <updated>2020-09-12T08:23:19-07:00</updated>
             <summary>
                 <![CDATA[
                     <p class="msg msg--warning">...HIGH WIND WARNING REMAINS IN EFFECT UNTIL 1 PM PDT TUESDAY...</p>
@@ -256,7 +250,7 @@
             <category term="Washington State"/>
             <category term="DOH"/>
 
-        <updated>2020-09-12T08:18:54-07:00</updated>
+        <updated>2020-09-12T08:23:19-07:00</updated>
             <summary>
                 <![CDATA[
                     <p class="msg msg--info"><span style="text-decoration: underline;"><strong>Statement from the Department of Health</strong></span></p>
