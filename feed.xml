@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>NolansVlogs</title>
+    <title>ClearlyElevated</title>
     <link href="https://nolan-tanzman.github.io/feed.xml" rel="self" />
     <link href="https://nolan-tanzman.github.io" />
     <updated>1969-12-31T16:00:00-08:00</updated>
@@ -14,11 +14,11 @@
         <author>
             <name>Nolan Tanzman</name>
         </author>
-        <link href="https://nolan-tanzman.github.io/the-dos-and-donts-of-face-masks-covid-19-chrisis-continues/"/>
-        <id>https://nolan-tanzman.github.io/the-dos-and-donts-of-face-masks-covid-19-chrisis-continues/</id>
+        <link href="https://nolan-tanzman.github.io/the-dos-and-donts-of-face-masks-covid-19-chrisis-continues/index.html"/>
+        <id>https://nolan-tanzman.github.io/the-dos-and-donts-of-face-masks-covid-19-chrisis-continues/index.html</id>
             <category term="COVID-19"/>
 
-        <updated>2020-09-11T05:42:21-07:00</updated>
+        <updated>2020-09-12T07:36:47-07:00</updated>
             <summary>
                 <![CDATA[
                     
@@ -63,13 +63,13 @@
         <author>
             <name>Nolan Tanzman</name>
         </author>
-        <link href="https://nolan-tanzman.github.io/wa-or-weather-advisory/"/>
-        <id>https://nolan-tanzman.github.io/wa-or-weather-advisory/</id>
+        <link href="https://nolan-tanzman.github.io/wa-or-weather-advisory/index.html"/>
+        <id>https://nolan-tanzman.github.io/wa-or-weather-advisory/index.html</id>
             <category term="Weather"/>
             <category term="Washington State"/>
             <category term="Oregon State"/>
 
-        <updated>2020-09-11T05:42:21-07:00</updated>
+        <updated>2020-09-12T07:36:47-07:00</updated>
             <summary>
                 <![CDATA[
                     <p class="msg msg--warning">...HIGH WIND WARNING REMAINS IN EFFECT UNTIL 1 PM PDT TUESDAY...</p>
@@ -97,12 +97,12 @@
         <author>
             <name>Nolan Tanzman</name>
         </author>
-        <link href="https://nolan-tanzman.github.io/washington-state-health-department-update/"/>
-        <id>https://nolan-tanzman.github.io/washington-state-health-department-update/</id>
+        <link href="https://nolan-tanzman.github.io/washington-state-health-department-update/index.html"/>
+        <id>https://nolan-tanzman.github.io/washington-state-health-department-update/index.html</id>
             <category term="Washington State"/>
             <category term="DOH"/>
 
-        <updated>2020-09-11T05:42:21-07:00</updated>
+        <updated>2020-09-12T07:36:47-07:00</updated>
             <summary>
                 <![CDATA[
                     <p class="msg msg--info"><span style="text-decoration: underline;"><strong>Statement from the Department of Health</strong></span></p>
